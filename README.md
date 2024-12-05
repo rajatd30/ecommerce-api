@@ -32,14 +32,28 @@ HOW TO RUN PROJECT:<br>
 2. On terminal type "python ecommerce/app.py".<br><br>
 3. Open the system provided localhost link.<br><br><br><br><br><br>
 
-IMAGES<br><br>
+IMAGES:<br><br>
 ![image](https://github.com/user-attachments/assets/2c593cd0-b3fd-4110-b42d-d56b7681151e)<br>
 <br>
 
-![image](https://github.com/user-attachments/assets/111a3d79-984b-4c71-99b0-1e51414d36de)
+![image](https://github.com/user-attachments/assets/111a3d79-984b-4c71-99b0-1e51414d36de)<br><br>
+
+![image](https://github.com/user-attachments/assets/8be90f50-9cb8-44ba-bd51-bbe6bae792a9)
+<br><br>![image](https://github.com/user-attachments/assets/8a34b97c-737e-4b86-b6ec-3ceb19d3fcab)
+
+<br><br>![image](https://github.com/user-attachments/assets/b64a198d-e100-48a7-bf0a-58601f3dadfb)
+
+<br><br>![image](https://github.com/user-attachments/assets/bd47dbfe-5b6f-4d01-8d9c-446923fcd1fd)
+
+<br><br>![image](https://github.com/user-attachments/assets/92d4d28c-cd2b-40b0-a072-d42f42b91f20)
+
+<br><br>![image](https://github.com/user-attachments/assets/85c4aefd-119b-4795-9d2f-0e9a544766ad)
+
+<br><br>![image](https://github.com/user-attachments/assets/d22c39fc-c8fc-4a67-aad8-6e7391e49025)
+
+<br><br>
 <br><br>
 
-![image](https://github.com/user-attachments/assets/8be90f50-9cb8-44ba-bd51-bbe6bae792a9)<br><br>
 
 
 
