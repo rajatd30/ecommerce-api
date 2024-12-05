@@ -1,5 +1,7 @@
 # ecommerce-api
 An API project used to perform different operations related to ecommerce.<br><br><br>
+DOCUMENTATION:<br>
+https://documenter.getpostman.com/view/39914067/2sAYBaBANB <br><br><br><br><br>
 FEATURES:<br>
 User Authentication:<br>
 User signup and signin functionality.<br>
